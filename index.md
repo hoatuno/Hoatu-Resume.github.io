@@ -20,4 +20,19 @@ Studying Computer Science at University of Engineering and Technology, VNU.
 - UI/UX design, Java, C++, HTML,CSS and ReactJS
 - Basic graphic design with some softwares Adobe: PS, AI, PR
 #Work Experience:
-1 year internship in [http://orlab.com.vn]**ORLAB**
+1 year internship in [ORLAB](http://orlab.com.vn)
+
+#MY PROJECT:
+[Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
+**(co-developed with [cd-project](https://github.com/cd-project))**
+A strategic, maze-based bomb putting game with bots
+
+**SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
+[TCDictionary](https://github.com/hoatuno/TCDictionary)
+**(co-developed with [cd-project](https://github.com/cd-project))**
+
+An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech.
+
+**SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
+
+[Runningpet-A game similar to the dinosaur game of Chrome ](https://github.com/hoatuno/runningpet)
