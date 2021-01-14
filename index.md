@@ -2,7 +2,7 @@
 ### Email: hhtcyb@gmail.com | Phone: 0943129871
 
 # INTRODUCTION
-**Hello, i'm Hoang Huu Tung**
+#### Hello, i'm Hoang Huu Tung
 Date of birth: 10 FEBRUARY 2001
 Languages:
 - Vietnamese (Native speaker)
@@ -17,12 +17,14 @@ Studying Computer Science at University of Engineering and Technology, VNU.
 - UI/UX design, Java, C++, HTML,CSS and ReactJS
 - Basic graphic design with some softwares Adobe: PS, AI, PR
 #Work Experience:
-- 1 year internship in [ORLAB](http://orlab.com.vn)
+
+# Engineering Experience:
+One year internship in [ORLAB](http://orlab.com.vn)
 
 # MY PROJECT:
 ## [Sudoku- Web Game](https://gitlab.com/hoatuno/sudorku)
 A Sudoku game with some special editions, 
-**SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS
+**SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
 
 ## [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
 **(co-developed with [cd-project](https://github.com/cd-project))**
