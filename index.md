@@ -1,28 +1,28 @@
 
-### Email: hhtcyb@gmail.com | Phone: 0943129871
+### Email: (hhtcyb@gmail.com) | Phone: 0943129871
 
 
-#INTRODUCTION
+# INTRODUCTION
 **Hello, i'm Hoang Huu Tung**
 Date of birth: 10 FEBRUARY 2001
 Languages:
 - Vietnamese (Native speaker)
 - English (Elementary)
 
-#EDUCATIONAL BACKGROUND
+# EDUCATIONAL BACKGROUND
 Highschool: Nguyen Tat Thanh highschool for the gifted
 2016 – 2019
 Studying Computer Science at University of Engineering and Technology, VNU.
 
 
 
-#Skills:
+# Skills:
 - UI/UX design, Java, C++, HTML,CSS and ReactJS
 - Basic graphic design with some softwares Adobe: PS, AI, PR
 #Work Experience:
-1 year internship in [ORLAB](http://orlab.com.vn)
+- 1 year internship in [ORLAB](http://orlab.com.vn)
 
-#MY PROJECT:
+# MY PROJECT:
 [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
 **(co-developed with [cd-project](https://github.com/cd-project))**
 A strategic, maze-based bomb putting game with bots
