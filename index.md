@@ -8,20 +8,20 @@
   - Vietnamese (Native speaker)
   - English (Elementary)
 
-## EDUCATIONAL BACKGROUND
+## **EDUCATIONAL BACKGROUND**
 - Highschool: Nguyen Tat Thanh highschool for the gifted
 2016 – 2019
 - Studying Computer Science at University of Engineering and Technology, VNU.
 
-## Skills:
+## **Skills:**
 - UI/UX design, Java, C++, HTML,CSS and ReactJS
 - Basic graphic design with some softwares Adobe: PS, AI, PR
 #Work Experience:
 
-## Engineering Experience:
+## **Engineering Experience:**
 - One year internship in [ORLAB](http://orlab.com.vn)
 
-## MY PROJECT:
+## **MY PROJECT:**
 ### [Sudoku- Web Game](https://gitlab.com/hoatuno/sudorku)
 A Sudoku game with some special editions with simplific UI 
 **SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
