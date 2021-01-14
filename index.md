@@ -1,5 +1,5 @@
 
-### Email: (hhtcyb@gmail.com) | Phone: 0943129871
+### Email: hhtcyb@gmail.com | Phone: 0943129871
 
 
 # INTRODUCTION
@@ -23,16 +23,16 @@ Studying Computer Science at University of Engineering and Technology, VNU.
 - 1 year internship in [ORLAB](http://orlab.com.vn)
 
 # MY PROJECT:
-[Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
+## [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
 **(co-developed with [cd-project](https://github.com/cd-project))**
 A strategic, maze-based bomb putting game with bots
 
 **SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
-[TCDictionary](https://github.com/hoatuno/TCDictionary)
+## [TCDictionary](https://github.com/hoatuno/TCDictionary)
 **(co-developed with [cd-project](https://github.com/cd-project))**
 
 An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech.
 
 **SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
 
-[Runningpet-A game similar to the dinosaur game of Chrome ](https://github.com/hoatuno/runningpet)
+## [Runningpet-A game similar to the dinosaur game of Chrome ](https://github.com/hoatuno/runningpet)
