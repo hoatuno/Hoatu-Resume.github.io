@@ -1,12 +1,12 @@
 
 #### Email: hhtcyb@gmail.com | Phone: 0943129871
 
-## INTRODUCTION
+## **INTRODUCTION**
 #### Hello, i'm Hoang Huu Tung
-- Date of birth: 10 FEBRUARY 2001
+- Date of birth: 10 February 2001
 - Languages:
- - Vietnamese (Native speaker)
- - English (Elementary)
+  - Vietnamese (Native speaker)
+  - English (Elementary)
 
 ## EDUCATIONAL BACKGROUND
 - Highschool: Nguyen Tat Thanh highschool for the gifted
@@ -23,7 +23,7 @@
 
 ## MY PROJECT:
 ### [Sudoku- Web Game](https://gitlab.com/hoatuno/sudorku)
-A Sudoku game with some special editions, 
+A Sudoku game with some special editions with simplific UI 
 **SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
 
 ### [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
