@@ -1,27 +1,23 @@
 
-### Markdown
+### Email: hhtcyb@gmail.com | Phone: 0943129871
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#INTRODUCTION
+**Hello, i'm Hoang Huu Tung**
+Date of birth: 10 FEBRUARY 2001
+Languages:
+- Vietnamese (Native speaker)
+- English (Elementary)
 
-# Header 1
-## Header 2
-### Header 3
+#EDUCATIONAL BACKGROUND
+Highschool: Nguyen Tat Thanh highschool for the gifted
+2016 – 2019
+Studying Computer Science at University of Engineering and Technology, VNU.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-#Ỉntroduction
-**Hello, i'm Hoang Huu Tung** - studying Computer Science at University of Engineering and Technology, VNU.
-
-I have experience in UI/UX design, Java, C++, HTML,cSS and ReactJS
-
+#Skills:
+- UI/UX design, Java, C++, HTML,CSS and ReactJS
+- Basic graphic design with some softwares Adobe: PS, AI, PR
+#Work Experience:
+1 year internship in [http://orlab.com.vn]**ORLAB**
