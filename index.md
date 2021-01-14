@@ -21,7 +21,7 @@
 - One year internship in [ORLAB](http://orlab.com.vn)
 
 ## **MY PROJECT:**
-### [Sudoku- Web Game](https://gitlab.com/hoatuno/sudorku)
+### [Sudoku - Web Game](https://gitlab.com/hoatuno/sudorku)
 A Sudoku game with some special editions with simplific UI 
 
 **SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
@@ -38,7 +38,7 @@ An advanced English - Vietnamese dictionary with features like: Auto detect sent
 
 **SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
 
-### [Runningpet-Basic game](https://github.com/hoatuno/runningpet)
+### [Runningpet - Basic game](https://github.com/hoatuno/runningpet)
 A basic game similar to the dinosaur game of Chrome control with keyboard.
 
 **SDK, Libraries & Tools:** C++, SDL2, Visual Studio
