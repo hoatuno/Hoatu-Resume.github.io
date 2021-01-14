@@ -17,8 +17,6 @@
 - UI/UX design, Java, C++, HTML,CSS and ReactJS
 - Basic graphic design with some softwares Adobe: PS, AI, PR
 
-## Work Experience:
-
 ## **Engineering Experience:**
 - One year internship in [ORLAB](http://orlab.com.vn)
 
