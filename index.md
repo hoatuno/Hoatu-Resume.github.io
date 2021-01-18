@@ -1,5 +1,5 @@
 
-#### Email: hhtcyb@gmail.com | Phone: 0943129871
+#### **Email**: hhtcyb@gmail.com | **Phone**: 0943129871
 
 ## **INTRODUCTION**
 #### Hello, i'm Hoang Huu Tung
@@ -22,7 +22,7 @@
 
 ## **MY PROJECT:**
 ### [Sudoku - Web Game](https://gitlab.com/hoatuno/sudorku)
-A Sudoku game with some special editions and simplific UI 
+A Sudoku game with some special editions and simplific UI. I am in charge of design user interface in 3 weeks. And the core algorithm is researched by my partner.
 
 **SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
 ### [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
